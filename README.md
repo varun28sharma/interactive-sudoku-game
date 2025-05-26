@@ -47,6 +47,7 @@ yarn dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+   versal : https://v0-interactive-sudoku-game.vercel.app/
 
 ## Project Structure
 
